@@ -22,7 +22,7 @@ Step into the future of education with AcadNexus. Whether **you’re a student a
 
 ## Visual Element / Design Suggestion 
 
-* Animated Hero Graphic: 
+* **Animated Hero Graphic**: 
 
  * A glowing digital globe or network map with connecting nodes symbolizing worldwide academic connections. 
 
@@ -62,7 +62,7 @@ AcadNexus is more than a platform—**it’s a global academic network**designed
 
 ## Visual/Design Suggestions 
 
-* Illustration Idea: 
+**Illustration Idea:** 
 
  * A dynamic flowchart or infographic showing Students → Learning → Research → Careers interconnected by AI nodes. 
 
@@ -186,7 +186,7 @@ Your academic path is unique—and so is our approach.
 
 * Get real-time progress tracking with adaptive recommendations to stay on track. 
 
-Impact: Students save time, learn faster, and achieve measurable results without getting lost in generic content. 
+**Impact**: Students save time, learn faster, and achieve measurable results without getting lost in generic content. 
 
 ### 🌐 2. Access to a Global Research & Collaboration Network 
 
@@ -198,7 +198,7 @@ Connect with a vibrant **worldwide academic community**.
 
 * Share insights and receive feedback from experts, researchers, and peers. 
 
-Impact: Expand knowledge, build partnerships, and gain recognition in global academic circles. 
+**Impact**: Expand knowledge, build partnerships, and gain recognition in global academic circles. 
 
 ### 🧩 3. Smart Tools for Insights & Progress Tracking 
 
@@ -210,7 +210,7 @@ Transform data into **actionable academic intelligence**.
 
 * Generate visual progress reports to identify strengths and areas for improvement. 
 
-Impact: Students and institutions can make data-driven decisions to maximize learning efficiency. 
+**Impact**: Students and institutions can make data-driven decisions to maximize learning efficiency. 
 
 ### 🚀 4. Direct Bridge from Learning to Career Opportunities 
 
@@ -222,7 +222,7 @@ Turn education into employment with **career-ready guidance.**
 
 * Build a professional profile that attracts recruiters, research institutions, and global companies. 
 
-Impact: Students move seamlessly from classroom to career, with clear steps toward their dream jobs. 
+**Impact**: Students move seamlessly from classroom to career, with clear steps toward their dream jobs. 
 
 ## Design/Visual Suggestions 
 
@@ -262,7 +262,7 @@ Get started in minutes.
 
 * Our AI immediately starts analyzing your profile to recommend tailored content and opportunities. 
 
-💡 Outcome: You instantly unlock a personalized dashboard with everything you need to begin your journey. 
+💡 **Outcome**: You instantly unlock a personalized dashboard with everything you need to begin your journey. 
 
 ### 2️⃣ Learn – Access Curated Content & Smart Study Tools 
 
@@ -472,7 +472,7 @@ Subtle background of interconnected nodes representing global academic connectio
 * Create Free Profile (Primary – bold color) 
 * Book a Demo (Secondary – subtle but visible) 
 
-### Background Style: 
+## Background Style: 
 
 * Inspiring gradient or hero image of a diverse, connected learning community. 
 * Optional subtle animation (e.g., moving network nodes) to reinforce the “global nexus” theme. 

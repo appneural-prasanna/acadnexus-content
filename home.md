@@ -6,13 +6,11 @@
 
 A bold, inspiring statement that immediately tells visitors what AcadNexus stands for**—a single platform where knowledge, collaboration, and career growth come together. 
 
-**Subheadline**
-
-**Connect, learn, and grow your academic and career potential with AI-powered tools and global collaboration.** 
+**Subheadline**:**Connect, learn, and grow your academic and career potential with AI-powered tools and global collaboration.** 
 
 AcadNexus combines**intelligent learning technology** with a worldwide academic network, enabling students, educators, and researchers to share knowledge, accelerate research, and unlock career opportunities—all in one seamless ecosystem. 
 
-### Supporting Copy (optional paragraph for more depth)
+## Supporting Copy (optional paragraph for more depth)
 
 Step into the future of education with AcadNexus. Whether **you’re a student aiming for top grades, a researcher seeking international partners**, or an educator transforming classrooms, our AI-driven platform provides the resources, insights, and community you need to achieve your goals faster.
 

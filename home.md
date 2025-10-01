@@ -5,7 +5,7 @@
 **Headline:** **Empowering Global Learners, Researchers, and Educators**
 
 A bold, inspiring statement that immediately tells visitors what AcadNexus stands for**—a single platform where knowledge, collaboration, and career growth come together. 
-**
+
 **Subheadline**
 
 **Connect, learn, and grow your academic and career potential with AI-powered tools and global collaboration.** 
@@ -16,13 +16,13 @@ AcadNexus combines**intelligent learning technology** with a worldwide academic 
 
 Step into the future of education with AcadNexus. Whether **you’re a student aiming for top grades, a researcher seeking international partners**, or an educator transforming classrooms, our AI-driven platform provides the resources, insights, and community you need to achieve your goals faster.
 
-### Primary Call-to-Action Buttons 
+## Primary Call-to-Action Buttons 
 
-* Get Started – Create your free academic profile in minutes and begin exploring courses, research papers, and collaboration opportunities. 
+* **Get Started** – Create your free academic profile in minutes and begin exploring courses, research papers, and collaboration opportunities. 
 
-* Book a Demo – Schedule a guided walkthrough to see how AcadNexus can empower your institution or research team. 
+* **Book a Demo** – Schedule a guided walkthrough to see how AcadNexus can empower your institution or research team. 
 
-### Visual Element / Design Suggestion 
+## Visual Element / Design Suggestion 
 
 * Animated Hero Graphic: 
 
@@ -160,8 +160,7 @@ Ideal for: Academic institutions looking to modernize and scale operations.
 
 Allow users to click on each module to see an expanded preview or a link to the Services page. 
 
- 
-### Call-to-Action Ideas 
+## Call-to-Action Ideas 
 
 **Explore All Modules** – Direct visitors to the detailed Services page. 
 

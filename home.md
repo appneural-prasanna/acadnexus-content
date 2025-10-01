@@ -76,4 +76,93 @@ AcadNexus is more than a platform—**it’s a global academic network**designed
 
 * **Explore the Platform** – Link to the Services page for an in-depth look at core modules. 
 
-* **Join the Network** – Encourage visitors to create a free profile to start learning or collaborating today. 
+* **Join the Network** – Encourage visitors to create a free profile to start learning or collaborating today.
+
+ # Section 3: Core Modules 
+
+**Title**:**Everything You Need to Excel Academically** 
+
+**Intro Description**
+
+AcadNexus combines **five powerful modules** into one intelligent ecosystem—designed to meet the needs of **students, researchers, educators, and institutions**. Each module works seamlessly together to support your academic journey, from **learning and research** to **career development and institutional management**. 
+
+ ## Module Details 
+
+### 1. Knowledge Hub 
+
+Step into a **comprehensive digital library** where learning never stops. 
+
+* Access thousands of curated courses, research papers, lecture notes, and high-quality study materials. 
+
+* Generate AI-powered summaries and flashcards to quickly review complex concepts. 
+
+* Stay updated with the latest academic resources across multiple disciplines. 
+
+Ideal for: Students seeking smarter study tools and researchers looking for the latest findings. 
+
+### 2. Collaboration Space 
+
+Build meaningful connections in **a global academic network**. 
+
+* Join **study groups** to exchange knowledge with peers. 
+
+* Participate in**research circles** to co-author papers or share discoveries. 
+
+* Find mentors or mentees through AI-powered matching, opening doors to guidance and real-world insights. 
+
+Ideal for: Students, researchers, and educators looking for global partnerships. 
+
+### 3. Portfolio Builder 
+
+Showcase your academic and professional growth in a **personalized digital portfolio**. 
+
+* Highlight skills, certifications, projects, research publications, and achievements. 
+
+* Create a shareable academic profile that attracts recruiters, collaborators, and institutions. 
+
+* Track your progress and share updates with your network. 
+
+Ideal for: Students and professionals building a credible academic brand. 
+
+### 4. Career Bridge 
+
+Transform academic success into **real-world opportunities.** 
+
+* Use AI to conduct a skill-gap analysis and identify areas to improve. 
+
+* Receive personalized job, internship, and certification recommendations based on your profile. 
+
+* Align your learning path with emerging career trends to stay ahead of the market. 
+
+Ideal for: Students preparing for jobs, graduates seeking internships, and researchers exploring career paths. 
+
+### 5. Institutional Dashboard 
+
+A powerful toolkit for **colleges, universities, and training institutes**. 
+
+* Integrate with existing Learning Management Systems (LMS) for easy academic tracking. 
+
+* Monitor student performance, engagement, and skill development in real time. 
+
+* Simplify placement tracking and career alignment, ensuring every student is career-ready. 
+
+Ideal for: Academic institutions looking to modernize and scale operations. 
+
+ ### Design/Visual Suggestions 
+
+* **Layout:** 
+
+     * Use a five-card grid with hover effects showing key features of each module. 
+
+     * Add subtle icons (book for Knowledge Hub, network for Collaboration, briefcase for Career Bridge, etc.). 
+
+* **Interactive Option**: 
+
+Allow users to click on each module to see an expanded preview or a link to the Services page. 
+
+ 
+### Call-to-Action Ideas 
+
+**Explore All Modules** – Direct visitors to the detailed Services page. 
+
+**Create Your Free Profile** – Encourage users to start using the Knowledge Hub immediately. 

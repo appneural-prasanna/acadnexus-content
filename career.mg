@@ -2,13 +2,13 @@
 
 ## 1. Hero Section – “Shape the Future of Education with Us” 
 
-Headline: Shape the Future of Education with Us 
+**Headline**: Shape the Future of Education with Us 
 
 Description (In-Depth): At AcadNexus, we are on a mission to redefine global education, research, and career pathways. Our team is creating the world’s most intelligent academic ecosystem, where AI, collaboration, and innovation intersect. By joining AcadNexus, you’ll be part of a team that empowers learners, researchers, and educators across the globe. 
 
 Every idea you contribute, every feature you help develop, directly impacts students’ and researchers’ success. This is your chance to build meaningful products with lasting impact. 
 
-CTA Button: 
+### CTA Button: 
 
 [ Explore Open Roles → ] 
 
